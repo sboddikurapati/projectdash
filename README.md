@@ -1,7 +1,7 @@
 # projectdash
 This repository has required files to be used for project - dashboard for DVA Course project - Fall2021
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sboddikurapati/projectdash/HEAD?urlpath=%2Fvoila%2Frender%2FProject_dash_check1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sboddikurapati/projectdash/HEAD?urlpath=voila%2Frender%2FProjectDashboard.ipynb)
 
 ## Steps to run the code on Desktop clients
 1. Get the latest clone and download the files from GitHub project here - https://github.com/sboddikurapati/projectdash
